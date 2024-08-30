@@ -30,8 +30,8 @@
 ------
 
 <h2 align="center"> 🌱 Work Experience</h2>
- I've been focusing on PHP Laravel development currently at GIC Japanese Company and having previously worked with C# did banking projects (MFTB bank,Innwa Bank,GTB Bank) as API backend developer at ACE Data Systems and all Banking API Test(KBZ,AYA,Wavemoney,OK $,One Pay,CB Pay,A+,MoMoney,Visa/Master..) Payment Gateway and B2B Project with Java as System Engineer at Myanmar Payment Solution Service. Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
- 
+ I've been focusing on PHP Laravel development currently at GIC Japanese Company and having previously worked with C# on banking projects for MFTB Bank, Innwa Bank, and GTB Bank as an API backend developer at ACE Data Systems and I also handled API testing for various banking platforms, including KBZ, AYA, Wavemoney, OK$, One Pay, CB Pay, A+, MoMoney, and Visa/MasterCard. Additionally, I have experience with payment gateways and B2B projects using Java as a System Engineer at Myanmar Payment Solution Service. Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
+
 ------
 <!---
 ayechanaung-gic/ayechanaung-gic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
