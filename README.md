@@ -30,7 +30,7 @@
 ------
 
 <h2 align="center"> 🌱 Work Experience</h2>
- I've been focusing on PHP Laravel development currently working area and having previously worked with C# on banking projects for MFTB Bank, Innwa Bank, and GTB Bank as an API backend developer at ACE Data Systems and I also handled API testing for various banking platforms, including KBZ, AYA, Wavemoney, OK$, One Pay, CB Pay, A+, MoMoney, and Visa/MasterCard. Additionally, I have experience with payment gateways and B2B projects using Java as a System Engineer at Myanmar Payment Solution Service. Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
+ I've been focusing on PHP Laravel development currently working area and having previously worked with C# on banking projects for MFTB Bank, Innwa Bank, and GTB Bank as an API backend developer at ACE Data Systems(Banking  and I handled API testing for various banking platforms, including KBZ, AYA, Wavemoney, OK$, One Pay, CB Pay, A+, MoMoney, and Visa/MasterCard. Additionally, I have experience with payment gateway and B2B projects using Java as a System Engineer at Myanmar Payment Solution Service(Payment Gateway Service Company). Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
 
 ------
 <!---
