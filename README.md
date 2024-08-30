@@ -30,7 +30,7 @@
 ------
 
 <h2 align="center"> 🌱 Work Experience</h2>
- I've been focusing on PHP Laravel development Currently working area and having previously worked with C# at ACE Data Systems and Java at Myanmar Payment Solution Service. Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
+ I've been focusing on PHP Laravel development currently at GIC Japanese Company and having previously worked with C# did banking projects (MFTB bank,Innwa Bank,GTB Bank) as API backend developer at ACE Data Systems and with Java  Banking API Test(KBZ,AYA,Wavemoney,OK $,One Pay,CB Pay,A+,MoMoney,Visa/Master..) Payment Gateway and B2B Project as System Engineer at Myanmar Payment Solution Service. Currently, I’m contributing my skills at GIC JP, focusing on cutting-edge projects in a dynamic environment.
  
 ------
 <!---
